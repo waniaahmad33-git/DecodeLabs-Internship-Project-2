@@ -1,5 +1,6 @@
 # DecodeLabs-Internship-Project-2
 Project 2 of DecodeLabs Artificial Intelligence Internship. A machine learning classification model built using supervised learning techniques.
+
 🤖 Data Classification Using AI
 
 This project was completed as part of the DecodeLabs Artificial Intelligence Internship Program.
